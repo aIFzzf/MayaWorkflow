@@ -10,7 +10,7 @@ def api_message():
     # return "Test"
     if request.headers['Content-Type'] == 'application/json':
         my_info = json.dumps(request.json)
-        print my_info
+        print "test"
         return my_info
 
 
