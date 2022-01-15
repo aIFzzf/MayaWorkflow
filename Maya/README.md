@@ -1,2 +1,0 @@
-# MayaWorkflow
-My Maya Workflow
